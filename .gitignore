@@ -106,7 +106,7 @@ target/
 # virtualenv
 venv/
 ENV/
-.ven/
+.venv/
 
 # molecule
 roles/**/molecule/**/__pycache__/
